@@ -1,2 +1,3 @@
-# mosy-recipe
-simple recipe app with "Chefkoch" recipe integration
+RezepteApp 
+NO NODE MODULES INCLUDED
+run npm install 
